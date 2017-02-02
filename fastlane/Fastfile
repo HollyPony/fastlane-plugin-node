@@ -1,0 +1,12 @@
+platform :ios do
+  lane :test do
+    node
+  end
+end
+
+platform :android do
+  lane :test do
+    node
+  end
+end
+
